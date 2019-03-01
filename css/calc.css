@@ -1,0 +1,59 @@
+#dis_cal{
+    width:330px;
+    height: 50px;
+    text-align: right;
+    border-radius: 15px;
+    
+}
+#dis_cal2{
+    width:150px;
+    
+}
+#inst{
+    font-size: 30px;
+    color: antiquewhite;
+}
+
+li{
+    font-size:20px;
+    color: beige;
+}
+
+#dis_cal1{
+    width:150px;
+    
+}
+.btn{
+    width: 55px;
+    height: 40x;
+    margin: 0;
+    
+}
+#tex_t{
+    color: rgb(189, 215, 255);
+    height:20px;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+
+}
+
+input:disabled, textarea:disabled {
+    color: rgb(29, 4, 5);
+    cursor: default;
+    font-family: 'Gochi Hand', cursive;
+    font-size: 33px;
+}
+
+.butt{
+    font-family: 'Reem Kufi', sans-serif;
+}
+.btn-primary {
+    color: rgb(22, 13, 13);
+    background-color: #11c7c7;
+    border-color: #007bff;
+}
+
+.btn-danger {
+    color: rgb(218, 199, 199);
+    background-color: #ec1632;
+    font-size:16px;
+}
